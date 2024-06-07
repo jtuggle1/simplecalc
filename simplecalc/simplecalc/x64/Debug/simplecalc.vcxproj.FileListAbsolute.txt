@@ -1,0 +1,3 @@
+D:\simplecalc\simplecalc\simplecalc\x64\Debug\simplecalc.vcxproj.AssemblyReference.cache
+D:\simplecalc\simplecalc\simplecalc\x64\Debug\simplecalc.MyForm.resources
+D:\simplecalc\simplecalc\simplecalc\x64\Debug\simplecalc.vcxproj.GenerateResource.cache

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\simplecalc\\simplecalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF276-5518-4EF0-84EF-8535197C4783}|simplecalc.vcxproj|D:\\simplecalc\\simplecalc\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECDDF276-5518-4EF0-84EF-8535197C4783}|simplecalc.vcxproj|solutionrelative:MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF276-5518-4EF0-84EF-8535197C4783}|simplecalc.vcxproj|D:\\simplecalc\\simplecalc\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{ECDDF276-5518-4EF0-84EF-8535197C4783}|simplecalc.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF276-5518-4EF0-84EF-8535197C4783}|simplecalc.vcxproj|D:\\simplecalc\\simplecalc\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECDDF276-5518-4EF0-84EF-8535197C4783}|simplecalc.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "D:\\simplecalc\\simplecalc\\MyForm.h",
+              "RelativeDocumentMoniker": "MyForm.h",
+              "ToolTip": "D:\\simplecalc\\simplecalc\\MyForm.h",
+              "RelativeToolTip": "MyForm.h",
+              "ViewState": "AQIAALoAAAAAAAAAAADgv8YAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-07T21:12:08.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h [Design]",
+              "DocumentMoniker": "D:\\simplecalc\\simplecalc\\MyForm.h",
+              "RelativeDocumentMoniker": "MyForm.h",
+              "ToolTip": "D:\\simplecalc\\simplecalc\\MyForm.h [Design]",
+              "RelativeToolTip": "MyForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-07T21:11:23.987Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "D:\\simplecalc\\simplecalc\\MyForm.cpp",
+              "RelativeDocumentMoniker": "MyForm.cpp",
+              "ToolTip": "D:\\simplecalc\\simplecalc\\MyForm.cpp",
+              "RelativeToolTip": "MyForm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T21:07:30.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
